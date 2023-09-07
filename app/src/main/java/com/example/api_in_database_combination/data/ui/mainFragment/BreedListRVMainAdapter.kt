@@ -27,7 +27,6 @@ class BreedListRVMainAdapter (
     }
 
 
-
     override fun getItemCount(): Int {
         return datasetBreedList.size
     }

@@ -28,4 +28,5 @@ abstract class BreedDatabase : RoomDatabase() {
             }
         }
     }
+
 }

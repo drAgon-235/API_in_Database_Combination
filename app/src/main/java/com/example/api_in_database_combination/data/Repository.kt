@@ -51,5 +51,4 @@ class Repository(private val breedsApi: BreedApi, private val database: BreedDat
         }
     }
 
-
 }

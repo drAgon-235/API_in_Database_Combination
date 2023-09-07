@@ -12,4 +12,5 @@ data class Breed(
     val origin: String,
     val coat: String,
     val pattern: String
+
 )

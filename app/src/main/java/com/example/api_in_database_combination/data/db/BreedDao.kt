@@ -19,4 +19,5 @@ interface BreedDao {
 
     @Query("DELETE FROM breed_table")
     suspend fun deleteAll()
+
 }

@@ -9,8 +9,8 @@ import com.example.api_in_database_combination.data.remote.BreedApi
 import de.syntaxinstitut.android_ww_template.data.Repository
 import kotlinx.coroutines.launch
 
-const val TAG = "ViewModelTAG"
 
+const val TAG = "ViewModelTAG"
 
 class ViewModel(application: Application) : AndroidViewModel(application) {
 
